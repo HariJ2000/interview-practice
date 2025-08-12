@@ -1,0 +1,32 @@
+{
+    "id": 1,
+    "name": "project",
+    "isFolder": true,
+    "items": [
+        {
+            "id": 2,
+            "name": "src",
+            "isFolder": true,
+            "items": [
+                {
+                    "id": 3,
+                    "name": "data",
+                    "isFolder": true,
+                    "items": []
+                },
+                {
+                    "id": 4,
+                    "name": "app.tsx",
+                    "isFolder": false,
+                    "items": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "package.json",
+            "isFolder": false,
+            "items": []
+        }
+    ]
+}
