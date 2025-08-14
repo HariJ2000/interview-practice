@@ -1,0 +1,36 @@
+.single__product{
+     display: flex;
+    flex-direction: column;
+    width: 300px;
+    border: 1px solid brown;
+    padding: 10px;
+    background-color: #e5e5f2;
+    border-radius: 20px;   
+    margin: 13px 0px;
+}
+
+.product__container{
+    display: flex;
+    /* width: 100%; */
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    /* padding: 10px; */
+}
+
+.active{
+    background-color: blanchedalmond;
+}
+
+.disable{
+    pointer-events: none;
+}
+
+.pagination{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.pagination > span{
+    padding: 5px;
+}
