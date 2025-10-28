@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       {/* <FileExplorer /> */}
-      <Pagination />
+      {/* <Pagination /> */}
     </>
   );
 }
